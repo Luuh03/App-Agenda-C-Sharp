@@ -1,0 +1,76 @@
+C:\Users\Luan_2003\Desktop\Programação\PC\Windows Forms\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\AplWinFormAgenda.exe.config
+C:\Users\Luan_2003\Desktop\Programação\PC\Windows Forms\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\AplWinFormAgenda.exe
+C:\Users\Luan_2003\Desktop\Programação\PC\Windows Forms\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\AplWinFormAgenda.pdb
+C:\Users\Luan_2003\Desktop\Programação\PC\Windows Forms\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.csprojAssemblyReference.cache
+C:\Users\Luan_2003\Desktop\Programação\PC\Windows Forms\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.Properties.Resources.resources
+C:\Users\Luan_2003\Desktop\Programação\PC\Windows Forms\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.csproj.GenerateResource.cache
+C:\Users\Luan_2003\Desktop\Programação\PC\Windows Forms\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.csproj.CoreCompileInputs.cache
+C:\Users\Luan_2003\Desktop\Programação\PC\Windows Forms\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.exe
+C:\Users\Luan_2003\Desktop\Programação\PC\Windows Forms\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.pdb
+C:\Users\Luan_2003\Desktop\Programação\PC\Windows Forms\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.frmLogin.resources
+C:\Users\Luan_2003\Desktop\Programação\PC\Windows Forms\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.frmPrincipal.resources
+C:\Users\Luan_2003\Desktop\Programação\PC\Windows Forms\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.frmCadastroP.resources
+C:\Users\Luan_2003\Desktop\Programação\PC\Windows Forms\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.frmCadastroC.resources
+C:\Users\Luan_2003\Desktop\Programação\PC\Windows Forms\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.frmConsultaC.resources
+C:\Users\Luan_2003\Desktop\Programação\PC\Windows Forms\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.frmConsultaP.resources
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\AplWinFormAgenda.exe.config
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\AplWinFormAgenda.exe
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\AplWinFormAgenda.pdb
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\MySql.Data.dll
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\Google.Protobuf.dll
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\Zstandard.Net.dll
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\Renci.SshNet.dll
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\System.Buffers.dll
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\System.Memory.dll
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\MySql.Data.xml
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.csprojAssemblyReference.cache
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.exe.config
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.frmCompromisso.resources
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.frmPessoas.resources
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.frmLogin.resources
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.frmPrincipal.resources
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.Properties.Resources.resources
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.csproj.GenerateResource.cache
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.csproj.CoreCompileInputs.cache
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.csproj.CopyComplete
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.exe
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.pdb
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.frmUsuarios.resources
+C:\Users\Luan_2003\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.frmTipoComp.resources
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\AplWinFormAgenda.exe.config
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\AplWinFormAgenda.exe
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\AplWinFormAgenda.pdb
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\MySql.Data.dll
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\Google.Protobuf.dll
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\Zstandard.Net.dll
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\Renci.SshNet.dll
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\System.Memory.dll
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\System.Buffers.dll
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\bin\Debug\MySql.Data.xml
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.csprojAssemblyReference.cache
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.exe.config
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.frmTipoComp.resources
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.frmUsuarios.resources
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.frmCompromisso.resources
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.frmPessoas.resources
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.frmLogin.resources
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.frmPrincipal.resources
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.Properties.Resources.resources
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.csproj.GenerateResource.cache
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.csproj.CoreCompileInputs.cache
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.csproj.CopyComplete
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.exe
+C:\Users\Luuh\Desktop\AplWinFormAgenda\AplWinFormAgenda\obj\Debug\AplWinFormAgenda.pdb
